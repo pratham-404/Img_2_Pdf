@@ -20,7 +20,9 @@ pip install pillow img2pdf
 - Download/Clone the repository. 
 - Run the `Img_2_Pdf.py` python file
 
-![Screenshot](/images/screenshot.png)
+<p align="center">
+  <img src="https://pratham-404.github.io/Img_2_Pdf/images/screenshot.png" alt="description of image" class="center">
+</p>
 
 - Select the images that are to be converted into pdf and hit convert.
 - The PDF file will be saved in the same directory as `file.pdf`.
