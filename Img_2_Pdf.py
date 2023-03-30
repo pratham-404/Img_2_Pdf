@@ -26,7 +26,7 @@ root.configure(background='#1C1B29')
 
 # Inserting an Image Canvas
 canvas = Canvas(root, width=200, height=120, bg='#1C1B29', highlightthickness=0)
-img = ImageTk.PhotoImage(file="icon.png")
+img = ImageTk.PhotoImage(file="./images/icon.png")
 canvas.create_image(100, 60, image=img)
 canvas.pack()
 
